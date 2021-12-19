@@ -19,7 +19,7 @@ h1 {
     margin: 128px 277px 0 16px;
 }
 
-h3 {
+.login-instruction-paragraph {
     font-style: normal;
     font-weight: normal;
     font-size: 20px;
